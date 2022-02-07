@@ -154,10 +154,6 @@ li p:first-child {
   outline: none;
   /* padding: 13px 10px; */
 }
-.menu-btn:focus,
-.menu-btn:hover {
-  /* @apply text-theme-jaune-550; */
-}
 .menu-btn .bar {
   width: 24px;
   height: 3px;

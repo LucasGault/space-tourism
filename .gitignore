@@ -67,9 +67,14 @@ typings/
 
 # nuxt.js build output
 .nuxt
+.vscode
+.editorconfig
+.eslintrc.js
+.prettierignore
+.prettierrc
 
 # Nuxt generate
-dist
+#dist
 
 # vuepress build output
 .vuepress/dist
